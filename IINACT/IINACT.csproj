@@ -22,7 +22,7 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <DalamudLibPath>C:\Users\msdx321\Desktop\software\xivlauncher\XIVLauncherCN\Roaming\addon\Hooks\380d2bc2\</DalamudLibPath>
+        <DalamudLibPath>C:\Users\msdx321\Desktop\software\xivlauncher\XIVLauncherCN\Roaming\addon\Hooks\dev\</DalamudLibPath>
         <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     </PropertyGroup>
 
